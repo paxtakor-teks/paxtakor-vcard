@@ -1,0 +1,11 @@
+{
+  "routes": [
+    {
+      "src": "/behzod_aminov.vcf",
+      "headers": {
+        "Content-Type": "text/vcard"
+      },
+      "dest": "/behzod_aminov.vcf"
+    }
+  ]
+}
