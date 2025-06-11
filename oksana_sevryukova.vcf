@@ -1,0 +1,17 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Оксана Севрюкова
+N:Севрюкова;Оксана;;;
+ORG:Paxtakor Teks
+TITLE:Менеджер по работе с клиентами
+TEL;TYPE=CELL:+79203559921
+TEL;TYPE=WORK:+74951453790
+EMAIL:sales@paxtakor-teks.uz
+EMAIL:o.sevryukova@paxtakor-teks.uz
+URL:https://paxtakor-teks.uz/
+item1.URL;type=pref:https://t.me/paxtakor_sales_ru
+item1.X-ABLabel:Telegram
+item2.URL;type=pref:https://wa.me/79936391099
+item2.X-ABLabel:WhatsApp
+ADR;TYPE=WORK:;;ул. Верхние поля, 48А;Москва;;109341;Россия
+END:VCARD
