@@ -1,0 +1,17 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Оганнес Авагян
+N:Авагян;Оганнес;;;
+ORG:Paxtakor Teks
+TITLE:Менеджер по работе с клиентами
+TEL;TYPE=WORK:+74951453789
+TEL;TYPE=CELL:+789384242900
+TEL;TYPE=CELL:+79054726435
+EMAIL:sales@paxtakor-teks.uz
+URL:https://paxtakor-teks.uz/
+item1.URL;type=pref:https://t.me/paxtakor_sales_ru
+item1.X-ABLabel:Telegram
+item2.URL;type=pref:https://wa.me/79936391099
+item2.X-ABLabel:WhatsApp
+ADR;TYPE=WORK:;;ул. Верхние поля, 48А;Москва;;109341;Россия
+END:VCARD
